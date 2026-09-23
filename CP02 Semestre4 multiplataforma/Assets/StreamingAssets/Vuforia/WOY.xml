@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="discord" size="640.000000 1136.000000" />
+    <ImageTarget name="discord_statue" size="295.000000 520.000000" />
     <ImageTarget name="WOY" size="452.000000 678.000000" />
+    <ImageTarget name="PeeperseWander" size="1365.000000 768.000000" />
+    <ImageTarget name="PeepersWander" size="1365.000000 768.000000" />
   </Tracking>
 </QCARConfig>
